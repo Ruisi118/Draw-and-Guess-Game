@@ -1,0 +1,23 @@
+# Compiled output
+out/
+**/*.class
+
+# SQLite database (generated on server start)
+*.db
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs / temp
+*.log
+nohup.out
+
+# OS
+Thumbs.db
+
+# Internal docs and reference materials (kept locally, not part of submission)
+docs/
+reference/
