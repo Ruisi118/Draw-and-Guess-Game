@@ -60,6 +60,7 @@ The SQLite database (`drawandguess.db`) is **created automatically on first serv
 The simplest way to verify the project works. Open multiple terminal windows on **one machine** and run:
 
 ```bash
+cd ~/Desktop/Draw-and-Guess-Game
 ./run-server.sh                 # Terminal 1 — server on localhost:12345
 ./run-client.sh                 # Terminal 2 — client window 1
 ./run-client.sh                 # Terminal 3 — client window 2 (need ≥2 to start a game)
