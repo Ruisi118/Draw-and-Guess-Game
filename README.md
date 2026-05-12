@@ -17,6 +17,7 @@ A real-time multiplayer Pictionary-style game built in Java. One player draws a 
 ### Run on macOS / Linux
 
 ```bash
+cd ~/Desktop/Draw-and-Guess-Game
 # Terminal 1 — start the server (compiles on first run)
 ./run-server.sh
 
