@@ -6,7 +6,7 @@
 
 A real-time multiplayer Pictionary-style game built in Java. One player draws a secret word on a shared canvas while others race to guess it in chat. Inspired by [skribbl.io](https://skribbl.io/).
 
-**📺 [Watch Demo Video]([https://youtu.be/VIDEO_ID](https://drive.google.com/file/d/1r92VthmAbuokFPwRRld8nfZk5N31qi0V/view?usp=sharing))** — 3-minute walkthrough
+**📺 [Watch Demo Video](https://drive.google.com/file/d/1r92VthmAbuokFPwRRld8nfZk5N31qi0V/view?usp=sharing)** — 4-minute walkthrough
 
 ---
 
